@@ -42,3 +42,4 @@ Macau) plus the official Paris 2024 Olympic draw.
 
 Work in progress — analysis and write-up ongoing.
 I will find better algorithms to quantify the fortune brought by the match draws, and adding more features, such as ages and dominant hands.
+I will verify the mathematical model with the past Olympic Games taking place in 2020 and 2016, enhancing the accuracy of the predicting model.
