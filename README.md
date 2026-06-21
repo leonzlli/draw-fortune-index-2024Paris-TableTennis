@@ -40,6 +40,11 @@ Macau) plus the official Paris 2024 Olympic draw.
 
 ## Status
 
-Work in progress — analysis and write-up ongoing.
-I will find better algorithms to quantify the fortune brought by the match draws, and adding more features, such as ages and dominant hands.
-I will verify the mathematical model with the past Olympic Games taking place in 2020 and 2016, enhancing the accuracy of the predicting model.
+First version complete — the core pipeline is built and working: raw match data is
+collected and cleaned, the three core features (win rate, world ranking points, career
+achievement) are engineered, and the initial fortune index model is up and running on the
+2024 Paris Olympics data.
+
+**Next steps:** refine the algorithm for quantifying draw fortune, add more features such
+as age and dominant hand, and validate the model against past Olympic Games (2020, 2016)
+to improve predictive accuracy.
