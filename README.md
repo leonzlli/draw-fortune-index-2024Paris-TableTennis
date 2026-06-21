@@ -41,3 +41,4 @@ Macau) plus the official Paris 2024 Olympic draw.
 ## Status
 
 Work in progress — analysis and write-up ongoing.
+I will find better algorithms to quantify the fortune brought by the match draws, and adding more features, such as ages and dominant hands.
